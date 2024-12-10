@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: 20px 0;
+}
+
+th {
+    background-color: hsl(261, 39%, 49%); /* Purple background */
+    color: white;              /* White text */
+    padding: 10px 15px;       /* zrdis  sigrdzes da siganes ujris */
+    text-align:center         /* texti sad gvinda ro ikos */
+}
+
+td {
+    padding: 8px 12px;
+}
+
+caption {
+    color: red;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+
+}
