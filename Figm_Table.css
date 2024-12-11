@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(102, 13, 227);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+table {
+    width: 80%;
+    background-color: white;
+    border-collapse: collapse; 
+    border-radius: 10px;
+    font-size: 10px;
+    border: 2px solid #ddd;
+    overflow: hidden;
+    
+}
+
+thead {
+    background-color: rgb(233, 233, 226);
+}
+
+td {
+    
+    text-align: left;
+    padding: 10px 15px; 
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}
+
+th {
+    padding: 10px 15px;
+    text-align: left;
+}
+
+#Dustin-row {
+    background-color: rgb(227, 209, 238);
+    color: rgb(106, 2, 204);
+    font-weight: bold;
+}
+
+tr {
+    border-bottom: 2px solid #ddd;
+
+}
+
